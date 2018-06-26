@@ -1,2 +1,3 @@
 Here is text in Main branch
+Here is text from master branch
 I like git
