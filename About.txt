@@ -1,2 +1,3 @@
 Here is text in Main branch
+Update in branch B
 I like git
